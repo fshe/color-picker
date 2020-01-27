@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App__container {
+  display: flex;
+}
+
+.App__column {
+  margin-right: 24px;
+}
+
+.ColorPicker__canvas {
+  border: 1px solid black;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.ColorPreview {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
