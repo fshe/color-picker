@@ -2,6 +2,8 @@
 
 Cross-browser supported color picker.
 
+https://fshe.github.io/color-picker/
+
 ### Supported browsers
 
 Testing was done on the latest versions of browsers.
