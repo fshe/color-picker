@@ -12,11 +12,12 @@ Testing was done on the latest versions of browsers.
 * Chrome
 * Safari
 * Firefox
-* IE11 (To confirm)
+* IE11
 * Edge
 
 ### Mobile
-* iOS Safari (To confirm)
-* iOS Webview (To confirm)
-* Android Chrome (To confirm)
+* iOS Safari
+* iOS Chrome
+* iOS Webview
+* Android Chrome
 * Android Webview (To confirm)
